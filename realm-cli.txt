@@ -1,0 +1,23 @@
+# npm install -g mongodb-realm-cli
+
+
+realm-cli function run --function=getCountryNames --user=646891e24dd07506931eaa52
+
+--------------------------------------------
+■Project Access Manager
+public API Key :tqxjoeab
+private API KEY :f5ac4dbc-ae79-4947-9b4d-5782d6ddabe1
+Access list : 111.237.119.24
+
+APP Users
+webcamQLKey
+646891e24dd07506931eaa52
+
+"zltDLjGDHqJHzQ0tSHA3XSZJUTnV5TxBmjW2PopKInszFsDxqSAEubmtq5tRRLgm"
+
+----------------------------------------
+
+realm-cli login --api-key <my-api-key> --private-api-key <my-private-api-key>
+
+
+realm-cli pull --remote webcamql-qrkjj
